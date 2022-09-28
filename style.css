@@ -5,7 +5,7 @@ html, body {
 
 p {
   font-size: 18px;
-  color: purple;
+  color: black;
 }
 
 .highlight {
@@ -14,7 +14,7 @@ p {
 }
 
 h1, h2 {
-  color: blue;
+  color: purple;
 }
 
 .grey{
